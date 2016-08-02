@@ -1,0 +1,595 @@
+<?xml version='1.0' encoding='us-ascii'?> 
+<landmarks title="Landmarks in Woodward Hall 4th Floor">
+	<goal title="Initial Position">
+		<room>Woodward 402</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>3.91791334941</position_x>
+		<position_y>99.0479600083</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.0235585143568</orientation_z>
+		<orientation_w>0.999722459686</orientation_w>		
+	</goal>	
+	<goal title="Ashit Talukdar">
+		<room>Woodward 403A</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>4.32082864467</position_x>
+		<position_y>99.7180101739</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.47596151173</orientation_z>
+		<orientation_w>0.879466110406</orientation_w>		
+	</goal>	
+	<goal title="403B">
+		<room>Woodward 403B</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>7.51535713052</position_x>
+		<position_y>99.6718121063</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.294106022977</orientation_z>
+		<orientation_w>0.955772801061</orientation_w>		
+	</goal>
+	<goal title="403C">
+		<room>Woodward 403C</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>11.90391922</position_x>
+		<position_y>99.3408126831</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.567610070688</orientation_z>
+		<orientation_w>0.823297520738</orientation_w>		
+	</goal>	
+	<goal title="403D">
+		<room>Woodward 403D</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>15.9781646729</position_x>
+		<position_y>99.3157730103</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> 0.537170254191</orientation_z>
+		<orientation_w>0.843473839554</orientation_w>		
+	</goal>	
+	<goal title="403E">
+		<room>Woodward 403E</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>20.0345172882</position_x>
+		<position_y>99.7661514282</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> 0.565553464267</orientation_z>
+		<orientation_w>0.824711633879</orientation_w>		
+	</goal>	
+	<goal title="403E">
+		<room>Woodward 403E</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>20.0345172882</position_x>
+		<position_y>99.7661514282</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> 0.565553464267</orientation_z>
+		<orientation_w>0.824711633879</orientation_w>		
+	</goal>
+	<goal title="403F">
+		<room>Woodward 403F</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>21.3734512329</position_x>
+		<position_y>99.7507553101</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> 0.0</orientation_z>
+		<orientation_w>1.0</orientation_w>		
+	</goal>
+	<goal title="403G">
+		<room>Woodward 403G</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>27.5803489685</position_x>
+		<position_y>99.637588501</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> 0.496647879475</orientation_z>
+		<orientation_w>0.867952120692</orientation_w>		
+	</goal>
+	<goal title="409">
+		<room>Woodward 409</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>35.3835792542</position_x>
+		<position_y>99.4302520752</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> 0.566282489569</orientation_z>
+		<orientation_w>0.824211224146</orientation_w>		
+	</goal>
+	
+	<goal title="405">
+		<room>Woodward 409</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>22.6163463593</position_x>
+		<position_y>98.6134414673</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.856056839295</orientation_z>
+		<orientation_w>0.516881696229</orientation_w>		
+	</goal>
+	
+	<goal title="404 Left">
+		<room>Woodward 409</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>8.8857460022</position_x>
+		<position_y>98.6734085083</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.860665148731</orientation_z>
+		<orientation_w>0.509171387413</orientation_w>		
+	</goal>
+	<goal title="404 Right">
+		<room>Woodward 409</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>18.4960899353</position_x>
+		<position_y>98.704284668</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.669043620234</orientation_z>
+		<orientation_w>0.743223138919</orientation_w>		
+	</goal>
+
+
+	<goal title="KDD Lab">
+		<room>Woodward 402</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>3.71301674843</position_x>
+		<position_y>94.8342514038</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.924607060651</orientation_z>
+		<orientation_w>0.380922279991</orientation_w>		
+	</goal>
+        <goal title="Parallel Computing Lab">
+		<room>Woodward 401</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>3.97426223755</position_x>
+		<position_y>86.5880126953</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.980052043763</orientation_z>
+		<orientation_w>0.198741016188</orientation_w>		
+	</goal>
+	<goal title="Stair A">
+		<room>Stair A</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>3.53738069534</position_x>
+		<position_y>80.8104248047</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.908767611854</orientation_z>
+		<orientation_w>0.417302561272</orientation_w>		
+	</goal>
+	<goal title="432A">
+		<room>432A</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>8.02653408051</position_x>
+		<position_y>79.6197891235</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> 0.66274314925</orientation_z>
+		<orientation_w>0.748846792156</orientation_w>		
+	</goal>
+	<goal title="430A">
+		<room>430A</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>4.81744146347</position_x>
+		<position_y>78.8173904419</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.73206078981</orientation_z>
+		<orientation_w>0.68123931186</orientation_w>		
+	</goal>
+	<goal title="430B">
+		<room>430B</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>7.65151023865</position_x>
+		<position_y>78.5726394653</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.397042298704</orientation_z>
+		<orientation_w> 0.917800312181</orientation_w>		
+	</goal>
+	<goal title="430C">
+		<room>430C</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>11.737569809</position_x>
+		<position_y>78.7371902466</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.462995516514</orientation_z>
+		<orientation_w>0.886360621693</orientation_w>		
+	</goal>
+	<goal title="430D">
+		<room>430D</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>15.6416139603</position_x>
+		<position_y>78.6682739258</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.421511172188</orientation_z>
+		<orientation_w>0.906823208636</orientation_w>		
+	</goal>
+	<goal title="430E">
+		<room>430E</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>19.722618103</position_x>
+		<position_y>78.4921646118</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.602843110737</orientation_z>
+		<orientation_w>0.797859751984</orientation_w>		
+	</goal>
+	<goal title="431">
+		<room>431</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>21.7669849396</position_x>
+		<position_y>79.8530578613</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> 0.681240374382</orientation_z>
+		<orientation_w>0.732059801049</orientation_w>		
+	</goal>
+	<goal title="423A">
+		<room>423A</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>22.8938369751</position_x>
+		<position_y>78.592048645</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.955781680354</orientation_z>
+		<orientation_w>0.294077165894</orientation_w>		
+	</goal>
+	<goal title="423B">
+		<room>423B</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>27.3826847076</position_x>
+		<position_y>78.6511306763</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.505485496802</orientation_z>
+		<orientation_w>0.862835101582</orientation_w>		
+	</goal>
+	<goal title="423C">
+		<room>423C</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>29.1923179626</position_x>
+		<position_y>78.5726242065</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.514958051706</orientation_z>
+		<orientation_w>0.85721537841</orientation_w>		
+	</goal>
+	<goal title="423D">
+		<room>423D</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>35.1789169312</position_x>
+		<position_y>78.7186050415</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.546697271778</orientation_z>
+		<orientation_w>0.837330336863</orientation_w>		
+	</goal>
+	<goal title="423E">
+		<room>423E</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>36.9733428955</position_x>
+		<position_y>78.6828460693</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.561873557532</orientation_z>
+		<orientation_w>0.827223129117</orientation_w>		
+	</goal>
+	<goal title="435A">
+		<room>435A</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>43.2299575806</position_x>
+		<position_y>78.62109375</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.555608129325</orientation_z>
+		<orientation_w>0.831444289552</orientation_w>		
+	</goal>
+	<goal title="435B">
+		<room>435B</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>44.8917045593</position_x>
+		<position_y>78.5337524414</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.674859964932</orientation_z>
+		<orientation_w>0.737945816257</orientation_w>		
+	</goal>
+	<goal title="435C">
+		<room>435C</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>50.9740333557</position_x>
+		<position_y>78.6948623657</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.513891862977</orientation_z>
+		<orientation_w>0.857854972105</orientation_w>		
+	</goal>
+	<goal title="435D">
+		<room>435D</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>52.7875404358</position_x>
+		<position_y>78.5192260742</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.676957283934</orientation_z>
+		<orientation_w>0.736022306543</orientation_w>		
+	</goal>
+	<goal title="435E">
+		<room>435E</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>58.7699241638</position_x>
+		<position_y>78.6228942871</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.548408307405</orientation_z>
+		<orientation_w>0.836210696158</orientation_w>		
+	</goal>
+	<goal title="435F">
+		<room>435F</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>60.5199432373</position_x>
+		<position_y>78.6873397827</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.60432943823</orientation_z>
+		<orientation_w>0.796734541795</orientation_w>		
+	</goal>
+	<goal title="435G">
+		<room>435G</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>64.4235610962</position_x>
+		<position_y>78.6972808838</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> -0.590308946322</orientation_z>
+		<orientation_w>0.807177395553</orientation_w>		
+	</goal>
+	<goal title="410A">
+		<room>410A</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>37.0966835022</position_x>
+		<position_y>99.6231994629</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z> 0.503010851965</orientation_z>
+		<orientation_w>0.864280095111</orientation_w>		
+	</goal>
+	<goal title="410B">
+		<room>410B</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>43.3873023987</position_x>
+		<position_y>99.4420852661</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.594900940119</orientation_z>
+		<orientation_w>0.803799024288</orientation_w>		
+	</goal>
+	<goal title="410C">
+		<room>410C</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>46.0384178162</position_x>
+		<position_y>99.8541717529</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.911347014682</orientation_z>
+		<orientation_w>0.411638942314</orientation_w>		
+	</goal>
+	<goal title="410D">
+		<room>410D</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>51.4030990601</position_x>
+		<position_y>99.5320281982</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.631048087503</orientation_z>
+		<orientation_w>0.775743714933</orientation_w>		
+	</goal>
+	<goal title="410E">
+		<room>410E</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>53.6965179443</position_x>
+		<position_y>99.5143814087</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.817063676685</orientation_z>
+		<orientation_w>0.57654743798</orientation_w>		
+	</goal>
+	<goal title="410F">
+		<room>410F</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>59.0813903809</position_x>
+		<position_y>99.3571472168</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.699220433347</orientation_z>
+		<orientation_w>0.714906137608</orientation_w>		
+	</goal>
+	<goal title="410G">
+		<room>410G</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>61.6041412354</position_x>
+		<position_y>99.4548339844</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.851311906327</orientation_z>
+		<orientation_w>0.524659926186</orientation_w>		
+	</goal>
+	<goal title="410H">
+		<room>410H</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>64.7715988159</position_x>
+		<position_y>99.545211792</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.643834207221</orientation_z>
+		<orientation_w>0.765165023777</orientation_w>		
+	</goal>
+	<goal title="436">
+		<room>436</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>48.3582572937</position_x>
+		<position_y>79.6707382202</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.717913352205</orientation_z>
+		<orientation_w>0.69613247211</orientation_w>		
+	</goal>
+	<goal title="437 Left">
+		<room>437 Left</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>52.2994995117</position_x>
+		<position_y>79.7166900635</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.555984789101</orientation_z>
+		<orientation_w>0.83119246525</orientation_w>		
+	</goal>
+	<goal title="437 Right">
+		<room>437 Right</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>61.574798584</position_x>
+		<position_y>79.6420516968</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>0.706842296285</orientation_z>
+		<orientation_w>0.707371167198</orientation_w>		
+	</goal>
+	<goal title="412 Left">
+		<room>412 Left</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>52.4628562927</position_x>
+		<position_y>98.719039917</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>-0.759109038647</orientation_z>
+		<orientation_w>0.650963491638</orientation_w>		
+	</goal>
+	<goal title="412 Right">
+		<room>412 Right</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>61.0852012634</position_x>
+		<position_y>98.5539627075</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>-0.490709083748</orientation_z>
+		<orientation_w>0.871323473302</orientation_w>		
+	</goal>
+	<goal title="411">
+		<room>411</room>
+		<timestamp>now</timestamp>
+		<frameid>map</frameid>
+		<position_x>49.07006073</position_x>
+		<position_y>98.6771240234</position_y>
+		<position_z>0.000</position_z>
+		<orientation_x>0.000</orientation_x>
+		<orientation_y>0.000</orientation_y>
+		<orientation_z>-0.896809932241</orientation_z>
+		<orientation_w>0.442416032072</orientation_w>		
+	</goal>
+</landmarks>
