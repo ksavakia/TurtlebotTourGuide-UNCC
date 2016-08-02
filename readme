@@ -26,7 +26,7 @@ Steps to run the application:
 4. Open another terminal on Turtlebot, run following command to launch amcl_demo program
 	roslaunch turtlebot_navigation amcl_demo.launch”
 5. Place your turtlebot near room 202 on 2nd floor and 402 on 4th floor.	
-6. On your workstation, run pyGuide_app.py. Note to change your directory to the one which contains pyGuide_app.py file.
+6. On your workstation, run 'python pyGuide_app.py'. Note to change your directory to the one which contains pyGuide_app.py file.
 7. Type in the office number or professor’s name of your destination and click on Go! Button. Follow the turtlebot to reach your destination!
 8. Close the application window in order to exit the navigation.
 9. Repeat from step 4 incase of any trouble or malfunction. 
